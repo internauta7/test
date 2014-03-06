@@ -3,3 +3,5 @@ Welcome to my Git test page.
 This is awesome!!!
 This is a bugfix :)
 
+This is a bugfix #2
+
